@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cuWW+5VlKwhE4X3FjCkKA9NnigLJx5f7cgfFOBl2izPjTYo64QZgsQYl9EU6Qte1BUvZ6QeLnzvkcWT3uToHCQ==",
+  "success": true,
+  "projectFilePath": "C:\\ПГНИУ и учебники\\4 триместр\\Интеллектуальные системы\\Лабораторная работа №5\\GPU Database\\GPU Database.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\111\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\111\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
+  ],
+  "logs": []
+}

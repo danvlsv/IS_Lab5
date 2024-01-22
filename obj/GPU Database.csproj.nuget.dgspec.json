@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ПГНИУ и учебники\\4 триместр\\Интеллектуальные системы\\Лабораторная работа №5\\GPU Database\\GPU Database.csproj": {}
+  },
+  "projects": {
+    "C:\\ПГНИУ и учебники\\4 триместр\\Интеллектуальные системы\\Лабораторная работа №5\\GPU Database\\GPU Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ПГНИУ и учебники\\4 триместр\\Интеллектуальные системы\\Лабораторная работа №5\\GPU Database\\GPU Database.csproj",
+        "projectName": "GPU Database",
+        "projectPath": "C:\\ПГНИУ и учебники\\4 триместр\\Интеллектуальные системы\\Лабораторная работа №5\\GPU Database\\GPU Database.csproj",
+        "packagesPath": "C:\\Users\\111\\.nuget\\packages\\",
+        "outputPath": "C:\\ПГНИУ и учебники\\4 триместр\\Интеллектуальные системы\\Лабораторная работа №5\\GPU Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\111\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Data.SQLite.Core": {
+              "target": "Package",
+              "version": "[1.0.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
